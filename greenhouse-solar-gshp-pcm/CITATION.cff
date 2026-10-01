@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite the thesis below."
+title: "Solar-assisted ground-source heat pump with PCM storage for greenhouse heating: reproducible model"
+authors:
+  - family-names: Karademir
+    given-names: Hakan
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+keywords:
+  - ground-source heat pump
+  - solar energy
+  - phase change material
+  - thermal energy storage
+  - greenhouse heating
+preferred-citation:
+  type: thesis
+  thesis-type: "M.Sc. thesis"
+  title: "Investigation of the feasibility of using a solar-assisted ground-source heat pump for greenhouse heating in Bursa"
+  authors:
+    - family-names: Karademir
+      given-names: Hakan
+  institution:
+    name: "Uludağ University, Graduate School of Natural and Applied Sciences, Department of Mechanical Engineering"
+    city: Bursa
+    country: TR
+  year: 2016

@@ -1,0 +1,48 @@
+{
+  "season_heat_demand_kWh": 16748.383844011536,
+  "peak_heat_loss_kW": 9.588863438461537,
+  "peak_heat_loss_time": "2013-12-16 06:00:00",
+  "solar_useful_heat_kWh": 5940.958665599999,
+  "solar_used_kWh": 5927.654767580769,
+  "condenser_heat_kWh": 10820.729076430769,
+  "compressor_work_kWh": 2626.457445669337,
+  "heat_pump_hours": 2265,
+  "heating_operating_factor": 0.47773638306537614,
+  "seasonal_cop": 4.119895067887982,
+  "storage_peak_kWh": 108.51090334230769,
+  "storage_peak_time": "2013-10-17 16:00:00",
+  "soil_temp_1m_min_C": 7.35,
+  "soil_temp_1m_max_C": 20.59,
+  "hours_above_ghx_limit": 0,
+  "capital_cost_TL": 21679.347999999998,
+  "payback_months": {
+    "diesel": 36,
+    "fuel_oil": 126,
+    "coal": 158
+  },
+  "pcm_sizing": {
+    "thesis_peak": {
+      "peak_energy_kWh": 150.283,
+      "design_energy_kWh": 172.82544999999996,
+      "pcm_volume_m3": 1.945684773430903,
+      "pcm_mass_kg": 3327.1209625668444,
+      "storage_volume_m3": 2.1402532507739935
+    },
+    "reproduced_peak": {
+      "peak_energy_kWh": 108.51090334230769,
+      "design_energy_kWh": 124.78753884365383,
+      "pcm_volume_m3": 1.404869561988785,
+      "pcm_mass_kg": 2402.326951000822,
+      "storage_volume_m3": 1.5453565181876636
+    }
+  },
+  "capital_cost_breakdown_TL": {
+    "ground_loop_pipe": 2008.908,
+    "heat_pump": 12000.0,
+    "solar_collectors": 3400.0,
+    "pcm": 1990.4399999999998,
+    "excavation": 2280.0,
+    "total": 21679.347999999998
+  },
+  "ghx_length_per_kW_m": 56.90013333333334
+}
